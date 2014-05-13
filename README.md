@@ -1,6 +1,3 @@
-ornlcda.github.io
-=================
-
 # ORNL Computational Data Analytics Group
 
 The Computational Data Analytics Research Group at the Oak Ridge National Laboratory conducts innovative basic and applied computer science research on challenges of national interest. The research focus is in the areas of large-scale data analytics and architectures.
